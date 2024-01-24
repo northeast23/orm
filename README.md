@@ -1,4 +1,5 @@
 # orm
 
-* Hello World!
-* Greetings from northeast.
+Hello World!
+
+Greetings from northeast.
