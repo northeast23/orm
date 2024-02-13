@@ -1,5 +1,3 @@
-# orm
+# 오름 부트캠프 
 
-Hello World!
-
-Greetings from northeast.
+부트캠프 수업과 관련된 코드 입니다.
